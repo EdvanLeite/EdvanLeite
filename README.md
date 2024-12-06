@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu GitHub
 
-<!--
-**EdvanLeite/EdvanLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Edvan** e sou estudante de **Ciência da Computação**. 
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- 🎓 Estudante de Ciência da Computação na UERN.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+- 📚 Habilidades principais:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="C" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/C.png">
+  <img align="center" alt="Java" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/JAVA.png">
+  <img align="center" alt="SQL" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/SQL.png">
+  <img align="center" alt="SQL" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/C%2B%2B.png">
+  <img align="center" alt="SQL" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/HTML.png">
+  
+
+</div>
+  
+  ## 📫 Como Entrar em Contato
+ 
+<div> 
+  <a href="https://www.instagram.com/edvan_sll/profilecard/?igsh=OXFnOGNwZ2s2eDhh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+</div>
