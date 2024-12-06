@@ -6,7 +6,7 @@ Meu nome é **Edvan** e sou estudante de **Ciência da Computação**.
 - 🎓 Estudante de Ciência da Computação na UERN.
 
   
-  ##📚 Habilidades principais:
+## 📚 Habilidades principais:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/C.png">
