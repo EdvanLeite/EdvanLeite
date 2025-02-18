@@ -3,18 +3,23 @@
 Meu nome é **Edvan** e sou estudante de **Ciência da Computação**. 
 
 ## 🚀 Sobre Mim
-- 🎓 Estudante de Ciência da Computação na UERN.
+- 🎓 Estudante de Ciência da Computação na **UERN**.
+- 📚 Atualmente no **3º Período**.
+- 🌱 Estou aprendendo **JS** e **SQL**.
+- 🌍 Busco contribuir em projetos open-source e aprender novas tecnologias todos os dias.
+
 
   
-## 📚 Habilidades principais:
+## 📚 Habilidades principais
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="C" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/C.png">
   <img align="center" alt="Java" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/JAVA.png">
   <img align="center" alt="SQL" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/SQL.png">
-  <img align="center" alt="SQL" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/C%2B%2B.png">
-  <img align="center" alt="SQL" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/HTML.png">
-  
+  <img align="center" alt="C++" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/C%2B%2B.png">
+  <img align="center" alt="HTML" height="35" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/HTML.png">
+</div>
+
 
 </div>
   
