@@ -4,7 +4,7 @@ Meu nome é **Edvan** e sou estudante de **Ciência da Computação**.
 
 ## 🚀 Sobre Mim
 - 🎓 Estudante de Ciência da Computação na **UERN**.
-- 📚 Atualmente no **3º Período**.
+- 📚 Atualmente no **5º Período**.
 - 🌱 Estou aprendendo **JS** e **SQL**.
 - 🌍 Busco contribuir em projetos open-source e aprender novas tecnologias todos os dias.
 
